@@ -16,7 +16,7 @@ while(1):
         try:
             print(i[-1])
         except:
-            print("I not defined")
+            print("No input")
         else:    
             f.close()
         '''fl=str(f.read())
